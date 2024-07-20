@@ -43,13 +43,15 @@ Coding standards are crucial for maintaining code quality, readability, and cons
 4.  **Constant Naming:** Use uppercase letters with underscores for constant names.
 5.  **Braces:** Use braces for all control structures (if, else, for, while, etc.).
 
-![](media/262a237888a5699e16733337ce019f63.png)
-
 Good Example Implementing All Forementioned Practices
 
-**![](media/28d3e86933d1140ccb6381efc396f53d.png)**
+![](https://imgur.com/HV4TEgv.png)
 
 Counter Bad Example
+
+**![](https://imgur.com/cuZA8KK.png)**
+
+
 
 **JavaScript Coding Standards**
 
@@ -75,13 +77,15 @@ Counter Bad Example
 4.  **Constant Naming:** Use uppercase letters with underscores for constant names.
 5.  **Braces:** Always use braces for control structures (if, else, for, while, etc.).
 
-![](media/bb4b465f5d6e939edfa8626ca788edd9.png)
-
 Good Example Implementing All Forementioned Practices
 
-![](media/3eeb199425c68f4ee83b6d195de7c280.png)
+![](https://imgur.com/THryDeE.png)
 
 Counter Bad Example
+
+![](https://imgur.com/7zaJpcr.png)
+
+
 
 **References**
 
